@@ -31,6 +31,11 @@ Or provide a URL directly:
 python phishguard.py https://example.com
 ```
 
+## 📸 Project Screenshot
+
+![PhishGuard Screenshot](phishguard test.png)
+
+
 Save a JSON report:
 
 ```bash
@@ -46,6 +51,10 @@ Valid URL:  True
 Risk score: 25/100
 Risk level: Medium
 ```
+
+## 📸 Project Screenshot
+
+![PhishGuard Screenshot](phishguard JS.png)
 
 Exact scores may differ as indicators evolve. Treat the output as a demonstration, not a security verdict.
 
