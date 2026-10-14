@@ -33,7 +33,7 @@ python phishguard.py https://example.com
 
 ## 📸 Project Screenshot
 
-![PhishGuard Screenshot](phishguard test.png)
+![PhishGuard Screenshot](phishguard.png)
 
 
 Save a JSON report:
