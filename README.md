@@ -52,9 +52,9 @@ Risk score: 25/100
 Risk level: Medium
 ```
 
-## 📸 Project Screenshot
+### 3. Security Report
+![Security Report](phishguard-report.png)
 
-![PhishGuard Screenshot](phishguard.png)
 
 Exact scores may differ as indicators evolve. Treat the output as a demonstration, not a security verdict.
 
