@@ -55,7 +55,6 @@ Risk level: Medium
 ### 3. Security Report
 ![Security Report](phishguard-report.png)
 
-
 Exact scores may differ as indicators evolve. Treat the output as a demonstration, not a security verdict.
 
 ## Run tests
@@ -64,6 +63,8 @@ Exact scores may differ as indicators evolve. Treat the output as a demonstratio
 python -m unittest discover -s tests -v
 ```
 
+### 4. Terminal Interface
+![Terminal Interface](phishguard-terminal.png)
 ## Limitations
 
 - Does not open or fetch the URL.
