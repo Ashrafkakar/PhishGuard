@@ -54,7 +54,7 @@ Risk level: Medium
 
 ## 📸 Project Screenshot
 
-![PhishGuard Screenshot](phishguard JS.png)
+![PhishGuard Screenshot](phishguardJS)
 
 Exact scores may differ as indicators evolve. Treat the output as a demonstration, not a security verdict.
 
